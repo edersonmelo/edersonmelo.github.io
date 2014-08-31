@@ -1,8 +1,7 @@
 ---
 published: true
-title: Hello world
+title: Hello github.io
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/edersonmelo/edersonmelo.github.io](http://github.com/edersonmelo/edersonmelo.github.io). Be nice. Give credit. Share, don't steal :)
-
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Hello github.io é a forma que tenho de criar meu primeiro post no blog. A ideia é simples, armazenar informações acessíveis de forma fácil e rápida, adicionar experiências e consumir outras.
+Achei simples a criação, que foi feita através do  [tinypress.co]https://tinypress.co.
