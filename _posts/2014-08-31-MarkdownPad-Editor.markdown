@@ -1,3 +1,8 @@
+---
+published: false
+title: Markdownpad Editor
+layout: post
+---
 **Markdown** é uma linguagem de marcação baseada em texto criado por ***John Gruber*** em 2004 como uma maneira de escrever em um formato fácil de ler que podem ser convertidos em HTML. Ele usa uma sintaxe muito simples formatação de pontuação e caracteres familiar, o que torna o conteúdo escrito para a web uma experiência mais intuitiva e mais rápida. 
 
 Como Markdown cresce em popularidade, novas ferramentas e aplicações surgiram para atender a escrever, conversão e pré-visualizar a linguagem de marcação. De tutoriais, plugins do WordPress e livros para Ferramentas de Serviço Markdown dedicados para OS X, há uma riqueza de excelentes recursos disponíveis. 
