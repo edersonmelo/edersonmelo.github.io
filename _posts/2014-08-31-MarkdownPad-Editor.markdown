@@ -9,7 +9,7 @@ Como Markdown cresce em popularidade, novas ferramentas e aplicações surgiram 
 
 Achei muitos posts descrevendo e exemplificando as melhores ferramentas e aplicativos para escrever e visualizar Markdown, incluindo recursos para Windows, Mac OS X, iOS e na web. 
 
-Eu pessoalmente, utilizo inclusive para este post o **![http://markdownpad.com/] MarkdownPad**, que é excelente. 
+Eu pessoalmente, utilizo inclusive para este post o **[http://markdownpad.com/](MarkdownPad)**, que é excelente. 
 
 **MarkdownPad**
 
