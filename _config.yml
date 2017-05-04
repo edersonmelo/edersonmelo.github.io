@@ -5,3 +5,5 @@ title: Ederson Melo
 tagline: 
 description: Contributing to the world <a href=\"http://edersonmelo.com/&quot; target=&quot;_blank\">Ederson Melo</a>
 paginate: 5
+
+theme: jekyll-theme-minimal
